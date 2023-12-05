@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import Appointment as ap;
 
-public class Main {
+public class  {
     public static void main(String[] args) {
         // Here are the types of appointments:
         // 0 - Available, 1 = Mens cut $50, 2= Ladies cut $80, 3= Mens Colouring $50, 4= Ladies Colouring $120
